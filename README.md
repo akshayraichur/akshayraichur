@@ -2,6 +2,9 @@
 
 ### Welcome, Good to see you here!
 
+#### Software Developer 
+#### Javascript, NodeJs, C++ & Flutter ❤️,
+#### Love to Travel, take photographs, meet new people, write about my [experience] (https://blog.akshayraichur.com)
 
 
 
