@@ -9,7 +9,7 @@
 
 💬 Love to discuss about : JavaScript, Flutter, C++, System Design, Networks, System Administration. 
 
-***📫 How to reach me: [Email]<contact@akshayraichur.com>***
+***📫 How to reach me: [Email](contact@akshayraichur.com)***
 
 <!--
 **akshayraichur/akshayraichur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
