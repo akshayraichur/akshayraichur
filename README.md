@@ -2,7 +2,10 @@
 
 ### Welcome, Good to see you here!
 
-#### I am [Akshay](https://akshayraichur.com)! - currently in 3rd year of my UG, majoring in computer science. 
+#### I am [Akshay](https://akshayraichur.com)!
+
+I work on JavaScript, Flutter. I also like python and c++ ❤️
+
 
 <!--
 **akshayraichur/akshayraichur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
