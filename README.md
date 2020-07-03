@@ -9,8 +9,6 @@
 #### 💬Love to discuss about : JavaScript, Flutter, C++, System Design, Networks, System Administration. 
 
 > ***I am looking to collaborate on JavaScript or Flutter based projects.***
->
-> **Random Fact : A User Interface is like a Joke, If you have to explain it. Its note that good. - Martin LeBlanc**.
 
 ***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur).***
 
