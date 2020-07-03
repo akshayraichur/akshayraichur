@@ -12,7 +12,7 @@
 
 ***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur).***
 
-> **Random Fact : A User Interface is like a Joke, If you have to explain it. Its note that good. - Martin LeBlanc.
+> **Random Fact : A User Interface is like a Joke, If you have to explain it. Its note that good. - Martin LeBlanc**.
 
 <!--
 **akshayraichur/akshayraichur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
