@@ -3,7 +3,7 @@
 ### Welcome, Good to see you here!
 
 #### Software Developer, I mostly write - Javascript, NodeJs, C++ & Flutter,
-#### Love to Travel, take photographs, meet new people, write about my [experience](https://blog.akshayraichur.com)
+#### Love to Travel 🌎🛫, take photographs 📸, meet new people 💁🏻‍♂️, write about my [experience](https://blog.akshayraichur.com)
 
 
 
