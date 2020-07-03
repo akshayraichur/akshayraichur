@@ -5,7 +5,7 @@
 #### Software Developer, I mostly write - Javascript, NodeJS, C++ , Flutter, and sometimes Python.
 #### Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️
 
-> ***I am looking to collaborate on JavaScript or Flutter based projects.***
+## > ***I am looking to collaborate on JavaScript or Flutter based projects.***
 
 💬 Love to discuss about : JavaScript, Flutter, C++, System Design, Networks, System Administration. 
 
