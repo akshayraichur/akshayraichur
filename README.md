@@ -9,7 +9,7 @@
 
 💬 Love to discuss about : JavaScript, Flutter, C++, System Design, Networks, System Administration. 
 
-***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur)***
+***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur).***
 
 <!--
 **akshayraichur/akshayraichur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
