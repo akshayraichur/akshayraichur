@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Welcome to my profile :
+### Welcome, Good to see you here!
 
 #### I am Akshay! - currently in 3rd year of my UG, majoring in computer science. 
 
