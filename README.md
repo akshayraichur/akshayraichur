@@ -1,10 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I am [Akshay](https://akshayraichur.com)!
 
 ### Welcome, Good to see you here!
 
-## I am [Akshay](https://akshayraichur.com)!
 
-I work on JavaScript, Flutter. I also like python and c++ ❤️
 
 
 <!--
