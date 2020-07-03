@@ -2,7 +2,7 @@
 
 ### Welcome, Good to see you here!
 
-#### Software Developer, I mostly write - Javascript, NodeJS, C++ , Flutter, and sometimes Python.
+#### Software Developer, I write - Javascript, NodeJS, C++ , Flutter, and sometimes Python.
 #### I mostly build WebApps, Mobile Apps, random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
 #### Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️
 
