@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+### Welcome to my profile :
+
+#### I am Akshay! - currently in 3rd year of my UG, majoring in computer science. 
 
 <!--
 **akshayraichur/akshayraichur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
