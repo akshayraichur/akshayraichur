@@ -1,8 +1,8 @@
 # Hi there 👋, I am [Akshay](https://akshayraichur.com)!
 
-### Welcome, Good to see you here!
+### Thanks for stopping by,
 
-#### Software Developer, I write - Javascript, NodeJS, C++ , Flutter, and sometimes Python.
+#### I am a Software Developer, I write - Javascript, NodeJS, C++ , Flutter, and sometimes Python.
 #### I mostly build WebApps, Mobile Apps, random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
 #### Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️
 
