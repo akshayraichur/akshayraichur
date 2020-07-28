@@ -8,7 +8,7 @@
 #### I mostly build WebApps, Mobile Apps, random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
 #### Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️
 
-#### 💬 Love to discuss about : JavaScript, Flutter, C++, System Design, Networks, System Administration. 
+#### 💬 Love to discuss about : JavaScript, Flutter, C++, System Design, Microservice, Networks, System Administration. 
 
 > ***I am looking to collaborate on JavaScript or Flutter based projects.***
 
