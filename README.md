@@ -1,4 +1,4 @@
-<center># Hi there 👋, I am [Akshay Raichur](https://akshayraichur.com)!</center>
+# Hi there 👋, I am [Akshay Raichur](https://akshayraichur.com)!
 
 ### Thanks for stopping by!
 
