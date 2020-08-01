@@ -15,7 +15,9 @@
 </a>
 <br/>
 
-### I am a Software Developer, I write - Javascript, NodeJS, C++ , Flutter, and sometimes Python.
+<img align="right" alt="js" src="http://static.akshayraichur.com/images/server.gif" width="400px" />
+
+<h2> I am a Software Developer, I write - Javascript, NodeJS, C++ , Flutter, and sometimes Python. </h2>
 
 ### I mostly build WebApps, Mobile Apps, random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
 
