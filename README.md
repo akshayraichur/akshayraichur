@@ -41,11 +41,11 @@
 </span>
 
 
-<h5>
+<h4>
   I build Web Apps, Mobile Apps, cool random things and sometimes NPM Packages.  <br/>
   Trying to focus on Web performance 🚀 <br/>
   💬 Love to discuss about : JS, Flutter, C++, System Design, Microservice, Networks, System Administration. <br/>
-</h5>
+</h4>
 <br/>
 <br/>
 
