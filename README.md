@@ -77,7 +77,7 @@
 <br/>
 
 <div align="left">
-  <code>
+  <h2>
     <br/>
  ___________________________________ <br/>
 / I came, I saw, I deleted all your \ <br/>
@@ -92,7 +92,7 @@
      (|     | ) <br/>
     /'\_   _/`\ <br/>
     \___)=(___/ <br/>
-  </code>
+  </h2>
 </div>
 
 <div align="right">
