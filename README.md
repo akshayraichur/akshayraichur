@@ -41,10 +41,11 @@
 </span>
 
 
-<h6>I build Web Apps, Mobile Apps, cool random things and sometimes NPM Packages.  <br/>
-Trying to focus on Web performance 🚀 <br/>
-💬 Love to discuss about : JS, Flutter, C++, System Design, Microservice, Networks, System Administration. <br/>
-</h6>
+<h5>
+  I build Web Apps, Mobile Apps, cool random things and sometimes NPM Packages.  <br/>
+  Trying to focus on Web performance 🚀 <br/>
+  💬 Love to discuss about : JS, Flutter, C++, System Design, Microservice, Networks, System Administration. <br/>
+</h5>
 <br/>
 <br/>
 
