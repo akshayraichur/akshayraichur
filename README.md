@@ -57,8 +57,8 @@
 
 <div>
   
-  #### I Love to :  
-  <br/> * Travel 🌎🛫, 
+  #### I Love to :  <>
+<h4>  * Travel 🌎🛫, </h4>
   <br/> * take Photographs 📸, 
   <br/> * meet New People 💁🏻‍♂️, 
   <br/> * write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ 
