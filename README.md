@@ -51,6 +51,7 @@
 </h4>
 <br/>
 <br/>
+<br/>
 
 
 <img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad-1.gif" width="320px" />
@@ -86,6 +87,8 @@
 </a>
 </div>
 
+<br/>
+<br/>
 
 <a align="center" href="https://stories.freepik.com/internet">Illustration by Stories by Freepik</a>
 
