@@ -17,7 +17,7 @@
 
 <img align="right" alt="js" src="http://static.akshayraichur.com/images/server.gif" width="320px" />
 
-<h3 align="left"> Languages and Tools: </h3>
+<h2 align="left"> Languages and Tools: </h2>
 <span>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="70px" />
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="70px"/>
