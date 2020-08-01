@@ -81,11 +81,13 @@
 
 > **Random Fact : A User Interface is like a Joke, If you have to explain it. Its note that good. - Martin LeBlanc**.
 
+<a align="center" href="https://stories.freepik.com/internet">Illustration by Stories by Freepik</a>
+
 <!--
 **akshayraichur/akshayraichur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<a href="https://stories.freepik.com/internet">Illustration by Stories by Freepik</a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
