@@ -45,9 +45,11 @@
 #### Trying to focus on Web performance 🚀
 <br/>
 <br/>
-<h1 align="center"><a href="https://github.com/akshayraichur" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraichur&theme=dark&hide_langs_below=1" />
-</a></h1>
+<h1 align="center">
+  <a href="https://github.com/akshayraichur">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayraichur&show_icons=true&theme=dark&line_height=27" alt="Akshay's github stats"/>
+</a>
+</h1>
 
 <br/>
 <br/>
