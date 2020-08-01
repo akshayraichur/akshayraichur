@@ -43,7 +43,7 @@
 
 #### I build Web Apps, Mobile Apps, cool random things and sometimes NPM Packages. 
 #### Trying to focus on Web performance 🚀
-#### 💬 Love to discuss about : JavaScript, Flutter, C++, System Design, Microservice, Networks, System Administration. 
+#### 💬 Love to discuss about : JS, Flutter, C++, System Design, Microservice, Networks, System Administration. 
 
 <br/>
 <br/>
@@ -53,6 +53,8 @@
 <div align="right">
   
   ### Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️
+  
+  ***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur).***
 
 </div>
 
@@ -66,11 +68,7 @@
 </a>
 </div>
 
-
-
 > ***I am looking to collaborate on JavaScript or Flutter based projects.***
-
-***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur).***
 
 > **Random Fact : A User Interface is like a Joke, If you have to explain it. Its note that good. - Martin LeBlanc**.
 
