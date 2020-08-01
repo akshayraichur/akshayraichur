@@ -58,11 +58,11 @@
 <div align="center">
   <div align="left">
     <h3> I Love to :  </h3>
-    <h4> * Travel <img src="https://img.icons8.com/color/48/000000/beach.png" width="20px"/><img src="https://img.icons8.com/color/48/000000/camping-tent.png" width="20px"/>
-      <br/> * Take Photographs 📸
-      <br/> * Meet New People 💁🏻‍♂️
+    <h3> * Travel <img src="https://img.icons8.com/color/48/000000/beach.png" width="20px"/><img src="https://img.icons8.com/color/48/000000/camping-tent.png" width="20px"/>
+      <br/> * Take Photographs <img src="https://img.icons8.com/color/48/000000/slr-large-lens.png" width="20px"/> <img src="https://img.icons8.com/color/48/000000/video-trimming.png" width="20px"/>
+      <br/> * Meet New People <img src="https://img.icons8.com/color/48/000000/meeting.png" width="20px"/>
       <br/> * Write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ 
-    </h4>
+    </h3>
     
 > ***I am looking to collaborate on JavaScript or Flutter based projects.***
 > **Random Fact : A User Interface is like a Joke, If you have to explain it. Its note that good. - Martin LeBlanc**.
