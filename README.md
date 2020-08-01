@@ -55,7 +55,7 @@
 
 <img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad-1.gif" width="220px" />
 
-I Love to :  
+#### I Love to :  
   - Travel 🌎🛫, 
   - take Photographs 📸, 
   - meet New People 💁🏻‍♂️, 
