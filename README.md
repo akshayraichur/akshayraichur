@@ -41,7 +41,9 @@
 </span>
 
 
-#### I mostly build WebApps, Mobile Apps, cool random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
+#### I build Web Apps, Mobile Apps, cool random things and sometimes NPM Packages. 
+
+#### Trying to focus on Web performance 🚀
 
 <br/>
 <br/>
