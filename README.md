@@ -45,9 +45,9 @@
 #### Trying to focus on Web performance 🚀
 <br/>
 <br/>
-<a href="https://github.com/akshayraichur" align="center">
+<h1 align="center"><a href="https://github.com/akshayraichur" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraichur&theme=dark&hide_langs_below=1" />
-</a>
+</a></h1>
 
 <br/>
 <br/>
