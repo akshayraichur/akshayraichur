@@ -54,16 +54,12 @@
 
 
 <img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad-1.gif" width="220px" />
-<div align="right">
-<div align="left">
+
 I Love to :  
   - Travel 🌎🛫, 
   - take Photographs 📸, 
   - meet New People 💁🏻‍♂️, 
   - write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ 
-
-</div>
-</div>
 
 <br/>
 <br/>
