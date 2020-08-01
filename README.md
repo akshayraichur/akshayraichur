@@ -19,9 +19,12 @@
 
 <h3 align="left"> Languages and Tools: </h3>
 <span>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40px" />
-<img src="https://img.icons8.com/color/48/000000/javascript.png" width="40px"/>
-<img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="70px" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="70px"/>
+<img src="https://img.icons8.com/plasticine/100/000000/react.png" width="70px"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png" width="70px"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="70px"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" width="70px"/>
 </span>
 
 ### I mostly build WebApps, Mobile Apps, random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
