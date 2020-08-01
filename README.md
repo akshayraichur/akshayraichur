@@ -14,6 +14,9 @@
 <a href="https://instagram.com/akshay.raichur/">
   <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="mailto:contact@akshayraichur.com">
+  <img src="https://img.icons8.com/doodle/50/000000/email.png" width="22px"/>
+</a>
 <br/>
 <img align="right" alt="js" src="http://static.akshayraichur.com/images/os.gif" width="320px" />
 
@@ -53,9 +56,7 @@
 <img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad.gif" width="220px" />
 <div align="right">
 <div align="left">
-  <h4 >Love to : Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ </h4>
-
-  ***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur).***
+  <h5>Love to : Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ </h5>
 
 </div>
 </div>
@@ -66,13 +67,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 <div align="center">
   <a href="https://github.com/akshayraichur">
