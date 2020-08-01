@@ -49,11 +49,10 @@
 <br/>
 
 
-<div align="left"> <img alt="js" src="http://static.akshayraichur.com/images/nomad.gif" width="320px" /> </div>
+<img align="left" alt="js" src="http://static.akshayraichur.com/images/nomad.gif" width="320px" />
 <div align="right">
   
-  ### Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️
-  
+<h4>Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️ </h4>
   ***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur).***
 
 </div>
