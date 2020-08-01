@@ -17,7 +17,7 @@
 
 <img align="right" alt="js" src="http://static.akshayraichur.com/images/server.gif" width="320px" />
 
-<h3 align="left"> I am a Software Developer, I write - Javascript, NodeJS, C++ , Flutter, and sometimes Python. </h3>
+<h3 align="left"> Languages and Tools: <br/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width=""22px /></h3>
 
 ### I mostly build WebApps, Mobile Apps, random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
 <br/>
