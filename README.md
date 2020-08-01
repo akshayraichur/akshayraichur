@@ -76,7 +76,25 @@
 <br/>
 <br/>
 
-<div align="center">
+<div align="left">
+  <code>
+ ___________________________________
+/ I came, I saw, I deleted all your \
+\ files.                            /
+ -----------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+  </code>
+</div>
+
+<div align="right">
   <a href="https://github.com/akshayraichur">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayraichur&show_icons=true&theme=dark&line_height=27" alt="Akshay's github stats"/>
 </a>
