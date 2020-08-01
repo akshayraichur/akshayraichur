@@ -2,7 +2,7 @@
 
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayraichur&label=Views&color=blue&style=plastic" alt="akshay" /> </p>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=akshayraichur&label=Views&color=blue&style=plastic" alt="akshay" /> </div>
 <br/>
 <img align="right" alt="js" src="http://static.akshayraichur.com/images/os.gif" width="320px" />
 <a href="https://twitter.com/Akshayvraichur">
@@ -45,16 +45,19 @@
 #### Trying to focus on Web performance 🚀
 <br/>
 <br/>
+
+
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=akshayraichur&label=Views&color=blue&style=plastic" alt="akshay" /> </div>
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/akshayraichur">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayraichur&show_icons=true&theme=dark&line_height=27" alt="Akshay's github stats"/>
 </a>
 </div>
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️
 
