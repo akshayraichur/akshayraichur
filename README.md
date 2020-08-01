@@ -44,7 +44,7 @@
 <h4>
   I build Web Apps, Mobile Apps, cool random things and sometimes NPM Packages.  <br/>
   Trying to focus on Web performance 🚀 <br/>
-  💬 Love to discuss about : JS, Flutter, C++, System Design, Microservice, Networks, System Administration. <br/>
+  💬  Love to discuss about : JS, Flutter, C++, System Design, Microservice, Networks, System Administration. <br/>
 </h4>
 <br/>
 <br/>
@@ -52,7 +52,7 @@
 
 <img align="left" alt="js" src="http://static.akshayraichur.com/images/nomad.gif" width="320px" />
 <div align="right">
-<h4>Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️ </h4>
+<h4>Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ </h4>
 
   ***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur).***
 
