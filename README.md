@@ -19,7 +19,9 @@
 
 <h3 align="left"> Languages and Tools: </h3>
 <span>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40px" /><img src="https://img.icons8.com/color/48/000000/javascript.png" width="40px"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40px" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="40px"/>
+<img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
 </span>
 
 ### I mostly build WebApps, Mobile Apps, random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
