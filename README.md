@@ -15,7 +15,7 @@
 </a>
 <br/>
 
-<img align="right" alt="js" src="http://static.akshayraichur.com/images/server.gif" width="200px" />
+<img align="right" alt="js" src="http://static.akshayraichur.com/images/server.gif" width="320px" />
 
 <h3 align="left"> I am a Software Developer, I write - Javascript, NodeJS, C++ , Flutter, and sometimes Python. </h3>
 
