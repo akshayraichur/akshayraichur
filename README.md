@@ -53,13 +53,15 @@
 <div align="right">
   
 <h4>Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️ </h4>
+
   ***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur).***
 
 </div>
 
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
   <a href="https://github.com/akshayraichur">
