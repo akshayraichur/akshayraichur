@@ -1,8 +1,8 @@
-<div>
+<span>
   
   ## Hi there 👋, I am [Akshay Raichur](https://akshayraichur.com)!
   
-  <div align="right">
+  <span align="right">
     <a href="https://twitter.com/Akshayvraichur">
       <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
     </a>
@@ -15,8 +15,8 @@
     <a href="mailto:contact@akshayraichur.com">
       <img src="https://img.icons8.com/doodle/50/000000/email.png" width="22px"/>
     </a>
-  </div>
-</div>
+  </span>
+</span>
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=akshayraichur&label=Views&color=blue&style=plastic" alt="akshay" /> </div>
 
