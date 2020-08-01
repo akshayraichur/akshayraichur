@@ -53,7 +53,7 @@
 <br/>
 
 
-<img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad.gif" width="220px" />
+<img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad-1.gif" width="220px" />
 <div align="right">
 <div align="left">
   <h5>Love to : Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ </h5>
@@ -85,7 +85,7 @@
 **akshayraichur/akshayraichur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<a href="https://stories.freepik.com/internet">Illustration by Stories by Freepik</a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
