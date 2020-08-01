@@ -50,7 +50,7 @@
 <br/>
 
 
-<img align="left" alt="js" src="http://static.akshayraichur.com/images/nomad.gif" width="320px" />
+<img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad.gif" width="220px" />
 <div align="right">
 <h4>Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ </h4>
 
