@@ -55,15 +55,14 @@
 
 <img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad-1.gif" width="320px" />
 
-<div>
-  
-  #### I Love to :  <>
-<h4>  * Travel 🌎🛫, </h4>
-  <br/> * take Photographs 📸, 
-  <br/> * meet New People 💁🏻‍♂️, 
-  <br/> * write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ 
-  
-</div>
+<div align="center">
+  <h3> I Love to :  </h3>
+  <h4>  * Travel 🌎🛫, 
+    <br/> * take Photographs 📸, 
+    <br/> * meet New People 💁🏻‍♂️, 
+    <br/> * write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ 
+  </h4>
+</div>  
 
 <br/>
 <br/>
