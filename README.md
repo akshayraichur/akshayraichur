@@ -22,6 +22,7 @@
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="50px" />
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50px"/>
 <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="50px"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png" width="50px"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="50px"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" width="50px"/>
@@ -39,7 +40,7 @@
 </span>
 
 
-### I mostly build WebApps, Mobile Apps, cool random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
+#### I mostly build WebApps, Mobile Apps, cool random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
 
 <br/>
 <br/>
