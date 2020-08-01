@@ -51,7 +51,6 @@
 
 <img align="left" alt="js" src="http://static.akshayraichur.com/images/nomad.gif" width="320px" />
 <div align="right">
-  
 <h4>Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️ </h4>
 
   ***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur).***
@@ -62,6 +61,9 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+
 
 <div align="center">
   <a href="https://github.com/akshayraichur">
