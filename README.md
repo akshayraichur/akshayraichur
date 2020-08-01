@@ -1,26 +1,22 @@
-<span>
-  
-  # Hi there 👋, I am [Akshay Raichur](https://akshayraichur.com)!
-  
-  <span align="center">
-    <a href="https://twitter.com/Akshayvraichur">
-      <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    </a>
-    <a href="https://linkedin.com/in/akshay-raichur">
-      <img align="left" alt="Akshay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a href="https://instagram.com/akshay.raichur/">
-      <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    </a>
-    <a href="mailto:contact@akshayraichur.com">
-      <img src="https://img.icons8.com/doodle/50/000000/email.png" width="22px"/>
-    </a>
-  </span>
-</span>
+# Hi there 👋, I am [Akshay Raichur](https://akshayraichur.com)!
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=akshayraichur&label=Views&color=blue&style=plastic" alt="akshay" /> </div>
 
-<br/>
+<span align="center">
+  <a href="https://twitter.com/Akshayvraichur">
+    <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://linkedin.com/in/akshay-raichur">
+    <img align="left" alt="Akshay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://instagram.com/akshay.raichur/">
+    <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="mailto:contact@akshayraichur.com">
+    <img src="https://img.icons8.com/doodle/50/000000/email.png" width="22px"/>
+  </a>
+</span>
+
 <img align="right" alt="js" src="http://static.akshayraichur.com/images/os.gif" width="320px" />
 
 <h2 align="left"> Languages and Tools: </h2>
@@ -52,10 +48,10 @@
   Trying to focus on Web performance 🚀 <br/>
   💬  Love to discuss about : JS, Flutter, C++, System Design, Microservice, Networks, System Administration. <br/>
 </h3>
-<br/>
-<br/>
-<br/>
 
+<br/>
+<br/>
+<br/>
 
 <img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad-1.gif" width="320px" />
 
