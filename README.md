@@ -58,11 +58,15 @@
 <div align="center">
   <div align="left">
     <h3> I Love to :  </h3>
-    <h4>  * Travel 🌎🛫, 
-      <br/> * take Photographs 📸, 
-      <br/> * meet New People 💁🏻‍♂️, 
-      <br/> * write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ 
+    <h4>    * Travel 🌎🛫
+      <br/> * Take Photographs 📸
+      <br/> * Meet New People 💁🏻‍♂️
+      <br/> * Write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ 
     </h4>
+    
+> ***I am looking to collaborate on JavaScript or Flutter based projects.***
+> **Random Fact : A User Interface is like a Joke, If you have to explain it. Its note that good. - Martin LeBlanc**.
+
   </div>
 </div>  
 
@@ -82,9 +86,6 @@
 </a>
 </div>
 
-> ***I am looking to collaborate on JavaScript or Flutter based projects.***
-
-> **Random Fact : A User Interface is like a Joke, If you have to explain it. Its note that good. - Martin LeBlanc**.
 
 <a align="center" href="https://stories.freepik.com/internet">Illustration by Stories by Freepik</a>
 
