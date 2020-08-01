@@ -76,9 +76,9 @@
 <br/>
 <br/>
 
-<img align="left" src="http://static.akshayraichur.com/images/quote.jpg" width="420px" />
+<img align="center" src="http://static.akshayraichur.com/images/quote.jpg" width="620px" />
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/akshayraichur">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayraichur&show_icons=true&theme=dark&line_height=27" alt="Akshay's github stats"/>
 </a>
