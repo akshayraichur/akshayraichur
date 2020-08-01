@@ -1,5 +1,7 @@
 <div>
-  <div align="left"><h1>Hi there 👋, I am <a href="https://akshayraichur.com">Akshay Raichur</a>!</h1></div>
+  
+  ## Hi there 👋, I am [Akshay Raichur](https://akshayraichur.com)!
+  
   <div align="right">
     <a href="https://twitter.com/Akshayvraichur">
       <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
