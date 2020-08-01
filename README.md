@@ -76,11 +76,10 @@
 <br/>
 <br/>
 
-<img align="center" src="http://static.akshayraichur.com/images/quote.jpg" width="620px" />
-
 <div align="center">
+  <img src="http://static.akshayraichur.com/images/quote.jpg" width="620px" /> 
   <a href="https://github.com/akshayraichur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayraichur&show_icons=true&theme=dark&line_height=27" alt="Akshay's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayraichur&show_icons=true&theme=dark&line_height=37" alt="Akshay's github stats"/>
 </a>
 </div>
 
