@@ -19,24 +19,25 @@
 
 <h2 align="left"> Languages and Tools: </h2>
 <span>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="70px" />
-<img src="https://img.icons8.com/color/48/000000/javascript.png" width="70px"/>
-<img src="https://img.icons8.com/plasticine/100/000000/react.png" width="70px"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png" width="70px"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="70px"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" width="70px"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="50px" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="50px"/>
+<img src="https://img.icons8.com/plasticine/100/000000/react.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="50px"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" width="50px"/>
 </span>
 
 <br/>
 
 <span>
-  <img src="https://img.icons8.com/plasticine/100/000000/final-cut-pro-x.png" width="70px"/>
-  <img src="https://img.icons8.com/fluent/48/000000/adobe-xd.png" width="70px"/>
-  <img src="https://img.icons8.com/fluent/48/000000/adobe-lightroom.png" width="70px"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" width="70px"/>
-  <img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" width="70px"/>
-  <img src="https://img.icons8.com/windows/32/000000/figma.png" width="70px"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/final-cut-pro-x.png" width="50px"/>
+  <img src="https://img.icons8.com/fluent/48/000000/adobe-xd.png" width="50px"/>
+  <img src="https://img.icons8.com/fluent/48/000000/adobe-lightroom.png" width="50px"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" width="50px"/>
+  <img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" width="50px"/>
+  <img src="https://img.icons8.com/windows/32/000000/figma.png" width="50px"/>
 </span>
+
 
 ### I mostly build WebApps, Mobile Apps, cool random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
 
