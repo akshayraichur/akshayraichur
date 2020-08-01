@@ -4,7 +4,7 @@
 <br/>
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=akshayraichur&label=Views&color=blue&style=plastic" alt="akshay" /> </div>
 <br/>
-<img align="right" alt="js" src="http://static.akshayraichur.com/images/os.gif" width="320px" />
+
 <a href="https://twitter.com/Akshayvraichur">
   <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -14,6 +14,8 @@
 <a href="https://instagram.com/akshay.raichur/">
   <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<img align="right" alt="js" src="http://static.akshayraichur.com/images/os.gif" width="320px" />
 
 <br/>
 
