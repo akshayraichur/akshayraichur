@@ -1,5 +1,11 @@
 <h1 align="center">Hi there 👋, I am <a href="https://akshayraichur.com">Akshay Raichur</a>!</h1>
+
 ---
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayraichur&label=Views&color=blue&style=plastic" alt="akshay" /> </p>
+
+<br>
+
 
 
 
