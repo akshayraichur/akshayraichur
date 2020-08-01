@@ -14,10 +14,8 @@
 <a href="https://instagram.com/akshay.raichur/">
   <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-<img align="right" alt="js" src="http://static.akshayraichur.com/images/os.gif" width="320px" />
-
 <br/>
+<img align="right" alt="js" src="http://static.akshayraichur.com/images/os.gif" width="320px" />
 
 <h2 align="left"> Languages and Tools: </h2>
 <span>
