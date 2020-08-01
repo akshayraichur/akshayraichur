@@ -20,7 +20,10 @@
 <h3 align="left"> I am a Software Developer, I write - Javascript, NodeJS, C++ , Flutter, and sometimes Python. </h3>
 
 ### I mostly build WebApps, Mobile Apps, random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
-
+<br/>
+<br/>
+<br/>
+<br/>
 ### Love to Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my [Experience](https://blog.akshayraichur.com) ❤️
 
 #### 💬 Love to discuss about : JavaScript, Flutter, C++, System Design, Microservice, Networks, System Administration. 
