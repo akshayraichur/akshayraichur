@@ -1,22 +1,22 @@
-<h1 align="center">Hi there 👋, I am <a href="https://akshayraichur.com">Akshay Raichur</a>!</h1>
+<h1 align="left">Hi there 👋, I am <a href="https://akshayraichur.com">Akshay Raichur</a>!</h1>
+<div align="right">
+  <a href="https://twitter.com/Akshayvraichur">
+    <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://linkedin.com/in/akshay-raichur">
+    <img align="left" alt="Akshay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://instagram.com/akshay.raichur/">
+    <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="mailto:contact@akshayraichur.com">
+    <img src="https://img.icons8.com/doodle/50/000000/email.png" width="22px"/>
+  </a>
+</div>
 
-
-<br/>
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=akshayraichur&label=Views&color=blue&style=plastic" alt="akshay" /> </div>
 <br/>
 
-<a href="https://twitter.com/Akshayvraichur">
-  <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/akshay-raichur">
-  <img align="left" alt="Akshay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://instagram.com/akshay.raichur/">
-  <img align="left" alt="Akshay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="mailto:contact@akshayraichur.com">
-  <img src="https://img.icons8.com/doodle/50/000000/email.png" width="22px"/>
-</a>
 <br/>
 <img align="right" alt="js" src="http://static.akshayraichur.com/images/os.gif" width="320px" />
 
@@ -44,11 +44,11 @@
 </span>
 
 
-<h4>
+<h3>
   I build Web Apps, Mobile Apps, cool random things and sometimes NPM Packages.  <br/>
   Trying to focus on Web performance 🚀 <br/>
   💬  Love to discuss about : JS, Flutter, C++, System Design, Microservice, Networks, System Administration. <br/>
-</h4>
+</h3>
 <br/>
 <br/>
 <br/>
