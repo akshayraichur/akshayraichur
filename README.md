@@ -44,6 +44,10 @@
 #### I build Web Apps, Mobile Apps, cool random things and sometimes NPM Packages. 
 #### Trying to focus on Web performance 🚀
 
+<a href="https://github.com/akshayraichur" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayraichur&theme=dark&hide_langs_below=1" />
+</a>
+
 <br/>
 <br/>
 <br/>
