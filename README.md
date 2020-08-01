@@ -52,10 +52,12 @@
 
 <img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad.gif" width="220px" />
 <div align="right">
-<h4 align="left">Love to : Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ </h4>
+<div align="left">
+  <h4 >Love to : Travel 🌎🛫, take Photographs 📸, meet New People 💁🏻‍♂️, write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ </h4>
 
   ***📫 How to reach me: <contact@akshayraichur.com>, [Instagram](https://instagram.com/akshay.raichur), [LinkedIn](https://www.linkedin.com/in/akshay-raichur), [Twitter](https://twitter.com/Akshayvraichur).***
 
+</div>
 </div>
 
 <br/>
