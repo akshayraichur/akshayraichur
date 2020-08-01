@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am [Akshay Raichur](https://akshayraichur.com)!</h1>
+<h1 align="center">Hi there 👋, I am <a href="https://akshayraichur.com" >Akshay Raichur!</a></h1>
 <!--
 **akshayraichur/akshayraichur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
