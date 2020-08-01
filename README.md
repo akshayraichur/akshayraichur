@@ -58,7 +58,7 @@
 <div align="center">
   <div align="left">
     <h3> I Love to :  </h3>
-    <h4>    * Travel 🌎🛫
+    <h4>    * Travel <img src="https://img.icons8.com/color/48/000000/beach.png" width="15px"/>
       <br/> * Take Photographs 📸
       <br/> * Meet New People 💁🏻‍♂️
       <br/> * Write about my <a href="https://akshayraichur.wordpress.com">Experience </a>  ❤️ 
