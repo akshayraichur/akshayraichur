@@ -1,8 +1,8 @@
 <span>
   
-  ## Hi there 👋, I am [Akshay Raichur](https://akshayraichur.com)!
+  # Hi there 👋, I am [Akshay Raichur](https://akshayraichur.com)!
   
-  <span align="right">
+  <span align="center">
     <a href="https://twitter.com/Akshayvraichur">
       <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
     </a>
