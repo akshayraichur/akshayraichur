@@ -27,13 +27,13 @@
 <img src="https://img.icons8.com/color/48/000000/python.png" width="70px"/>
 </span>
 
+<br/>
+
 <span>
   <img src="https://img.icons8.com/plasticine/100/000000/final-cut-pro-x.png" width="70px"/>
   <img src="https://img.icons8.com/fluent/48/000000/adobe-xd.png" width="70px"/>
-  <img src="https://img.icons8.com/fluent/48/000000/adobe-lightroom.png" width=""70px/>
+  <img src="https://img.icons8.com/fluent/48/000000/adobe-lightroom.png" width="70px"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" width="70px"/>
-  
-  
 </span>
 
 ### I mostly build WebApps, Mobile Apps, cool random things and sometimes NPM Packages. Trying to focus on Web performance 🚀
