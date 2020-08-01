@@ -76,24 +76,7 @@
 <br/>
 <br/>
 
-<div align="left">
-  <h2>
-    <br/>
- ___________________________________ <br/>
-/ I came, I saw, I deleted all your \ <br/>
-\ files.                            / <br/>
- ----------------------------------- <br/>
-   \ <br/>
-    \ <br/>
-        .--. <br/>
-       |o_o | <br/>
-       |:_/ | <br/>
-      //   \ \ <br/>
-     (|     | ) <br/>
-    /'\_   _/`\ <br/>
-    \___)=(___/ <br/>
-  </h2>
-</div>
+<img align="left" src="http://static.akshayraichur.com/images/quote.jpg" width="420px" />
 
 <div align="right">
   <a href="https://github.com/akshayraichur">
