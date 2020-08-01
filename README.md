@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I am <a href="https://akshayraichur.com">Akshay Raichur</a>!</h1>
-<div align="right">
+<div align="center">
   <a href="https://twitter.com/Akshayvraichur">
     <img align="left" alt="Akshay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
@@ -14,9 +14,7 @@
   </a>
 </div>
 
-<br/>
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=akshayraichur&label=Views&color=blue&style=plastic" alt="akshay" /> </div>
-<br/>
 
 <br/>
 <img align="right" alt="js" src="http://static.akshayraichur.com/images/os.gif" width="320px" />
