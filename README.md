@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad-1.gif" width="320px" />
+<img align="left" alt="travel" src="http://static.akshayraichur.com/images/nomad-1.gif" width="370px" />
 
 <div align="center">
   <div align="left">
@@ -65,6 +65,7 @@
     </h3>
     
 > ***I am looking to collaborate on JavaScript or Flutter based projects.***
+<br/>
 > **Random Fact : A User Interface is like a Joke, If you have to explain it. Its note that good. - Martin LeBlanc**.
 
   </div>
