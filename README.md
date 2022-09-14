@@ -1,4 +1,4 @@
-# Hi there 👋, I am [Akshay Raichur](https://akshayraichur.com)!
+# Hi 👋, I am [Akshay Raichur](https://akshayraichur.com)!
 
 I am a Software Engineer, I love to build software revolving around web, mobile and servers. I have a bachelors degree in computer science.
 
