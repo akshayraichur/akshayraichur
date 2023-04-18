@@ -5,7 +5,7 @@ I am a Software Engineer, I love to build software revolving around web, mobile 
 Currently, 
 - 🔭 I’m currently working on C++, JavaScript/TypeScript, React and Nodejs
 - 👯 I’m looking to collaborate on web based projects
-- 📫 How to reach me: [Website](https://akshayraichur.com) | [linkedin](https://www.linkedin.com/in/akshay-raichur) | [Twitter](https://twitter.com/akshayvraichur) | [instagram](https://instagram.com/akshayraichur)
+- 📫 How to reach me: [Website](https://akshayraichur.com) | [linkedin](https://www.linkedin.com/in/akshay-raichur) | [Twitter](https://twitter.com/akshayvraichur) | [Instagram](https://instagram.com/akshayraichur)
 
 <!-- 
 <a href="https://github.com/akshayraichur/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshayraichur&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akshay's github stats" /></a> 
