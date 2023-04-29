@@ -1,6 +1,6 @@
 # Hi 👋, I am [Akshay Raichur](https://akshayraichur.com)!
 
-I am a Software Engineer, I love to build software revolving around web, mobile and servers. I have a bachelors degree in computer science.
+I am a Software Engineer, I love to build software revolving around web, mobile and servers. I have a bachelors degree in computer science, when I am not hooked on to my laptop, I usually like to go out on a bike/car drive, play badminton & take photographs. 
 
 Currently, 
 - 🔭 I’m currently working in JavaScript/TypeScript, React, Nodejs & occasionally C++
